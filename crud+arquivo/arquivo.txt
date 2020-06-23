@@ -1,0 +1,4 @@
+Código: 1	Nome: samuel
+Código: 2	Nome: ramon
+Código: 3	Nome: ozanan
+Código: 4	Nome: rosalia
